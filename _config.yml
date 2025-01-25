@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "jiaqi_liu2.png"
-  name             : "Jiaqi Liu / 刘家琦"
+  name             : # "Jiaqi Liu / 刘家琦"
   pronouns         : # example: "she/her"  
   bio              : 
   location         : "Wuhan, China"
