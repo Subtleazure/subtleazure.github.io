@@ -97,8 +97,8 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
-    object-fit: cover;
+    border-radius: 0;
+    object-fit: contain;
     object-position: center;
 
     @include breakpoint($large) {
